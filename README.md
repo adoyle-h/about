@@ -17,6 +17,9 @@
 [中文自我介绍](http://adoyle.me/blog/about/)
 
 
+![Analytics](https://ga-beacon.appspot.com/UA-52556444-3/adoyle/about/readme?pixel)
+
+
 <!-- links -->
 
 [0]: http://adoyle.me/about/
