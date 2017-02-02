@@ -1,6 +1,6 @@
-# About Me
+# [About Me][0]
 
- ![My Avatar](https://avatars2.githubusercontent.com/u/1998490?v=3&s=120)
+![My Avatar](https://avatars2.githubusercontent.com/u/1998490?v=3&s=120)
 > Avatar comes from [the great work][] of [Gabriella Denizot][]. She has authorized me using the image in public.
 
 - Nickname: ADoyle
@@ -19,5 +19,6 @@
 
 <!-- links -->
 
+[0]: http://adoyle.me/about/
 [the great work]: http://simpledesktops.com/browse/desktops/2010/aug/19/classy
 [Gabriella Denizot]: http://gabrielladenizot.com/
