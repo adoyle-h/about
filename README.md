@@ -1,7 +1,7 @@
 # About Me
 
 ![My Avatar](https://avatars2.githubusercontent.com/u/1998490?v=3&s=120)
-> Avatar comes from [the great work][] of [Gabriella Denizot][]. She has authorized me using the image in public.
+> The picture comes from [the great work][] created by [Gabriella Denizot][]. She has authorized me to use it for personal usage.
 
 - Nickname: ADoyle
 - Email: [adoyle.h@gmail.com](mailto:adoyle.h@gmail.com)
@@ -11,8 +11,12 @@
 - [Keep sharing](https://github.com/adoyle-h/Presentations)
 - I am a big fan of Unix/Linux. [My command cheat sheet](https://github.com/adoyle-h/my-command-cheat), [development tools](https://github.com/adoyle-h/my-development-tools), [dotfiles and shell environment](https://github.com/adoyle-h/dotfiles)
 - I am a neovim user. [My neovim-config](https://github.com/adoyle-h/neovim-config)
-- I am a web programmer, translator, graphic design beginner (WIP)
-- I like Nyancat and Doge very much
+- I am a web programmer. Developing with languages: NodeJS, Go, Elixir, Rust, Java, Shell Script
+- I am a translator. Just translate websites, documents and softwares from English into Chinese
+- I am a graphic design beginner (WIP)
+- I am Chinese and live in Hángzhōu, China
+- I used to work in [Huaban][] for server development. Now work in [Aliyun][] as full-stack web developer
+- I am a cat enthusiast. [Doge][] is also my favorite :)
 
 [中文自我介绍](http://adoyle.me/blog/about/)
 
@@ -24,3 +28,6 @@
 
 [the great work]: http://simpledesktops.com/browse/desktops/2010/aug/19/classy
 [Gabriella Denizot]: http://gabrielladenizot.com/
+[Huaban]: http://huaban.com/
+[Aliyun]: https://www.aliyun.com
+[Doge]: http://knowyourmeme.com/memes/doge
