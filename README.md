@@ -5,24 +5,75 @@
 
 - Nickname: ADoyle
 - Email: [adoyle.h@gmail.com](mailto:adoyle.h@gmail.com)
-- Blog: [http://adoyle.me/blog](http://adoyle.me/blog) (Written in Chinese), whose [source drafts](https://github.com/adoyle-h/blog).
-- Languages: Chinese (very good), English (good), Japanese (learning)
-- I keep on taking notes of [what I learned](https://github.com/adoyle-h/Today-I-Learned) everyday.
-- I keep on taking notes of [what I read](https://github.com/adoyle-h/What-I-Read) sometimes.
-- I keep on [sharing my thoughts](https://github.com/adoyle-h/Presentations) in public.
-- I am a big fan of Unix/Linux. There are lots of my best usage practices:
+- Blog: [http://adoyle.me/blog](http://adoyle.me/blog) (Written in Chinese). You can access the [source drafts](https://github.com/adoyle-h/blog).
+- Languages: Chinese (skilled), English (good), Japanese (learning)
+- Developing languages: Javascript (Browser/NodeJS), Go, Elixir, Rust, Java, Shell Script.
+- I keep on taking notes of [what I learned](http://adoyle.me/Today-I-Learned/) everyday.
+- I keep on taking notes of [what I read](http://adoyle.me/What-I-Read/) sometimes.
+- I keep on [sharing my thoughts](http://adoyle.me/Presentations/) in public.
+- Live with terminal. There are lots of my best usage practices:
     - [Command cheat sheet](https://github.com/adoyle-h/my-command-cheat)
-    - [Development tools](https://github.com/adoyle-h/my-development-tools)
+    - [Development tools](http://adoyle.me/my-development-tools)
     - [Dotfiles and shell environment](https://github.com/adoyle-h/dotfiles)
-    - As a (neo)vim user, here is my [neovim-config](https://github.com/adoyle-h/neovim-config)
-- I am a web programmer. Developing with languages: NodeJS, Go, Elixir, Rust, Java, Shell Script.
-- I am a translator. Just translate websites, documents and softwares from English into Chinese.
-- I am a graphic design beginner (WIP).
+    - As a (neo)vim user with my [neovim-config](https://github.com/adoyle-h/neovim-config)
+- A full-stack web programmer and a dev-opser.
+- A translator. Just translate websites, documents and softwares from English into Chinese.
+- A graphic design beginner (WIP).
 - I am Chinese and living in Hángzhōu, China.
-- I used to work in [Huaban][] for server-side development. Now work in [Aliyun][] as full-stack web developer.
-- I am a cat enthusiast. [Doge][] is also my favorite. :)
+- A cat enthusiast. [Doge][] is also my favorite. :)
 
-[中文自我介绍](http://adoyle.me/blog/about/)
+## Business Timeline
+
+- [Aliyun][] Inc. at Hangzhou, China. Senior full-stack web developer. (2016/05 ~ now)
+- [Huaban][] Inc. at Hangzhou, China. Server-side developer. (2014/07 ~ 2016/03)
+
+## Open-source projects created by me
+
+### shell
+
+- [iThoughts-Search](https://github.com/adoyle-h/iThoughts-Search): A bash command for searching content from multi iThoughts (.itmz) files
+- [watermark](https://github.com/adoyle-h/watermark): A bash command to make watermarks on image
+- [bash-logger](https://github.com/adoyle-h/bash-logger): A simple bash logger utility
+- [lookup.sh](https://github.com/adoyle-h/lookup.sh): Look up project directory based on a locator file. Never write ../../ relative path format.
+
+### docker
+
+- [docker-flyway](https://github.com/adoyle-h/docker-flyway): A docker image for flyway command-line tool
+
+### node
+
+- [utility-maker](https://github.com/adoyle-h/utility-maker): Make your utilities library
+- [logic-string](https://github.com/adoyle-h/logic-string): Calculate logical expressions in string
+- [eslint-config-adoyle-style](https://github.com/adoyle-h/eslint-config-adoyle-style): A set of eslint shareable configs for javascript code style which follows my code style.
+- [Ero.js](https://github.com/adoyle-h/Ero.js): A library provides simple functions for building your own customized errors
+- [config-sp](https://github.com/adoyle-h/config-sp): A simple, zero-dependency library helps you make a configuration for your library or module
+
+## Other languages about this document
+
+- [中文自我介绍](http://adoyle.me/blog/about/)
+
+**Copyright (c) 2017-2018 ADoyle. All rights reserved. No reproduction without permission.**
+
+
+                                                                     ▄              ▄
+                                                                    ▌▒█           ▄▀▒▌
+                                                                    ▌▒▒█        ▄▀▒▒▒▐
+                                                                   ▐▄▀▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐
+                                                                 ▄▄▀▒░▒▒▒▒▒▒▒▒▒█▒▒▄█▒▐
+                                                               ▄▀▒▒▒░░░▒▒▒░░░▒▒▒▀██▀▒▌
+                 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                         ▐▒▒▒▄▄▒▒▒▒░░░▒▒▒▒▒▒▒▀▄▒▒▌
+               ▄▀░░░░░░░░░░░░▄░░░░░░░▀▄                       ▌░░▌█▀▒▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐
+               █░░▄░░░░▄░░░░░░░░░░░░░░█                      ▐░░░▒▒▒▒▒▒▒▒▌██▀▒▒░░░▒▒▒▀▄▌
+               █░░░░░░░░░░░░▄█▄▄░░▄░░░█ ▄▄▄                  ▌░▒▄██▄▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒▒▌
+        ▄▄▄▄▄  █░░░░░░▀░░░░▀█░░▀▄░░░░░█▀▀░██                ▀▄▀▐▄█▄█▌▄░▀▒▒░░░░░░░░░░▒▒▒▐
+        ██▄▀██▄█░░░▄░░░░░░░██░░░░▀▀▀▀▀░░░░██                ▐▒▒▐▀▐▀▒░▄▄▒▄▒▒▒▒▒▒░▒░▒░▒▒▒▒▌
+         ▀██▄▀██░░░░░░░░▀░██▀░░░░░░░░░░░░░▀██               ▐▒▒▒▀▀▄▄▒▒▒▄▒▒▒▒▒▒▒▒░▒░▒░▒▒▐
+           ▀████░▀░░░░▄░░░██░░░▄█░░░░▄░▄█░░██                ▌▒▒▒▒▒▒▀▀▀▒▒▒▒▒▒░▒░▒░▒░▒▒▒▌
+              ▀█░░░░▄░░░░░██░░░░▄░░░▄░░▄░░░██                ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▄▒▒▐
+              ▄█▄░░░░░░░░░░░▀▄░░▀▀▀▀▀▀▀▀░░▄▀                  ▀▄▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▄▒▒▒▒▌
+          ░░░█▀▀█████████▀▀▀▀████████████▀                      ▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀
+      ░░░░░░░████▀░░███▀░░░░░░▀███░░▀██▀                          ▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀
+                                                                      ▒▒▒▒▒▒▒▒▀▀▀
 
 
 <img src="https://ga-beacon.appspot.com/UA-52556444-3/adoyle/about/readme?pixel" alt="Analytics" style="display:none">
