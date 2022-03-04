@@ -5,15 +5,16 @@
 
 - Nickname: ADoyle
 - Email: [adoyle.h@gmail.com](mailto:adoyle.h@gmail.com)
-- Blog: [http://adoyle.me/blog](http://adoyle.me/blog) (Written in Chinese). You can access the [source drafts](https://github.com/adoyle-h/blog).
+- Blog: [https://adoyle.me/blog](https://adoyle.me/blog) (Written in Chinese). You can access the [source drafts](https://github.com/adoyle-h/blog).
 - Languages: Chinese (skilled), English (good), Japanese (learning)
-- Developing languages: Javascript (Browser/NodeJS), Go, Elixir, Rust, Java, Shell Script.
-- I keep on taking notes of [what I learned](http://adoyle.me/Today-I-Learned/) everyday.
-- I keep on taking notes of [what I read](http://adoyle.me/What-I-Read/) sometimes.
-- I keep on [sharing my thoughts](http://adoyle.me/Presentations/) in public.
+- Developing languages: Javascript (Browser&Server), Go, Elixir, Rust, Shell Script.
+- Focused ecologies: Web, Linux, Docker, K8S, CNCF
+- I keep on taking notes of [what I learned](https://adoyle.me/Today-I-Learned/) everyday.
+- I keep on taking notes of [what I read](https://adoyle.me/What-I-Read/) sometimes.
+- I keep on [sharing my thoughts](https://adoyle.me/Presentations/) in public.
 - Live with terminal. There are lots of my best usage practices:
     - [Command cheat sheet](https://github.com/adoyle-h/my-command-cheat)
-    - [Development tools](http://adoyle.me/my-development-tools)
+    - [Development tools](https://adoyle.me/my-development-tools)
     - [Dotfiles and shell environment](https://github.com/adoyle-h/dotfiles)
     - As a (neo)vim user with my [neovim-config](https://github.com/adoyle-h/neovim-config)
 - A full-stack web programmer and a dev-opser.
@@ -24,7 +25,8 @@
 
 ## Business Timeline
 
-- [Aliyun][] Inc. at Hangzhou, China. Senior full-stack web developer. (2016/05 ~ now)
+- freelancer: (now, looking for purposeful job)
+- [Aliyun][] Inc. at Hangzhou, China. Senior full-stack web developer. (2016/05 ~ 2022/02)
 - [Huaban][] Inc. at Hangzhou, China. Server-side developer. (2014/07 ~ 2016/03)
 
 ## Open-source projects created by me
@@ -50,9 +52,9 @@
 
 ## Other languages about this document
 
-- [中文自我介绍](http://adoyle.me/blog/about/)
+- [中文自我介绍](https://adoyle.me/blog/about/)
 
-**Copyright (c) 2017-2018 ADoyle. All rights reserved. No reproduction without permission.**
+**Copyright (c) 2017-2022 ADoyle. All rights reserved. No reproduction without permission.**
 
 
                                                                      ▄              ▄
@@ -83,6 +85,6 @@
 
 [the great work]: http://simpledesktops.com/browse/desktops/2010/aug/19/classy
 [Gabriella Denizot]: http://gabrielladenizot.com/
-[Huaban]: http://huaban.com/
+[Huaban]: https://huaban.com/
 [Aliyun]: https://www.aliyun.com
 [Doge]: http://knowyourmeme.com/memes/doge
