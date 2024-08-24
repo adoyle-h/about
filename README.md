@@ -29,32 +29,11 @@
 - [Aliyun][] Inc. at Hangzhou, China. Senior full-stack web developer. (2016/05 ~ 2022/02)
 - [Huaban][] Inc. at Hangzhou, China. Server-side developer. (2014/07 ~ 2016/03)
 
-## Open-source projects created by me
-
-### shell
-
-- [iThoughts-Search](https://github.com/adoyle-h/iThoughts-Search): A bash command for searching content from multi iThoughts (.itmz) files
-- [watermark](https://github.com/adoyle-h/watermark): A bash command to make watermarks on image
-- [bash-logger](https://github.com/adoyle-h/bash-logger): A simple bash logger utility
-- [lookup.sh](https://github.com/adoyle-h/lookup.sh): Look up project directory based on a locator file. Never write ../../ relative path format.
-
-### docker
-
-- [docker-flyway](https://github.com/adoyle-h/docker-flyway): A docker image for flyway command-line tool
-
-### node
-
-- [utility-maker](https://github.com/adoyle-h/utility-maker): Make your utilities library
-- [logic-string](https://github.com/adoyle-h/logic-string): Calculate logical expressions in string
-- [eslint-config-adoyle-style](https://github.com/adoyle-h/eslint-config-adoyle-style): A set of eslint shareable configs for javascript code style which follows my code style.
-- [Ero.js](https://github.com/adoyle-h/Ero.js): A library provides simple functions for building your own customized errors
-- [config-sp](https://github.com/adoyle-h/config-sp): A simple, zero-dependency library helps you make a configuration for your library or module
-
 ## Other languages about this document
 
 - [中文自我介绍](https://adoyle.me/blog/about/)
 
-**Copyright (c) 2017-2022 ADoyle. All rights reserved. No reproduction without permission.**
+**Copyright (c) 2017-2024 ADoyle. All rights reserved. No reproduction without permission.**
 
 
                                                                      ▄              ▄
